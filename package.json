@@ -1,0 +1,12 @@
+{
+    "name": "sqdsh-api-dashboard",
+    "version": "1.0.0",
+    "description": "A SQDSH's API Dashboard",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "fastify": "^3.20.1",
+        "fastify-static": "^4.2.3",
+        "node-fetch": "^2.6.1"
+    }
+}
